@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/hieu/fngbuild/.build/src/gcc-custom/configure --build=x86_64-build_unknown-linux-gnu --host=x86_64-build_unknown-linux-gnu --target=arm-unknown-eabi --prefix=/home/hieu/x-tools/arm-unknown-eabi --with-local-prefix=/home/hieu/x-tools/arm-unknown-eabi/arm-unknown-eabi/sysroot --disable-libmudflap --with-sysroot=/home/hieu/x-tools/arm-unknown-eabi/arm-unknown-eabi/sysroot --with-newlib --enable-threads=no --disable-shared --with-pkgversion='crosstool-NG git+9f36023 - boostedtc-a15_neon-vfpv4-20140904' --with-arch=armv7-a --with-cpu=cortex-a15 --with-tune=cortex-a15 --with-fpu=neon-vfpv4 --with-float=hard --disable-__cxa_atexit --with-gmp=/home/hieu/fngbuild/.build/arm-unknown-eabi/buildtools --with-mpfr=/home/hieu/fngbuild/.build/arm-unknown-eabi/buildtools --with-mpc=/home/hieu/fngbuild/.build/arm-unknown-eabi/buildtools --with-isl=/home/hieu/fngbuild/.build/arm-unknown-eabi/buildtools --with-cloog=/home/hieu/fngbuild/.build/arm-unknown-eabi/buildtools --with-libelf=/home/hieu/fngbuild/.build/arm-unknown-eabi/buildtools --enable-lto --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --disable-libgomp --disable-libmudflap --disable-nls --enable-languages=c,c++";
+static const char thread_model[] = "single";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "cortex-a15" }, { "arch", "armv7-a" }, { "tune", "cortex-a15" }, { "float", "hard" }, { "fpu", "neon-vfpv4" } };
