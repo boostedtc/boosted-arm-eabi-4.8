@@ -23,9 +23,9 @@ dependency_libs=' -lm'
 weak_library_names=''
 
 # Version information for libstdc++.
-current=6
+current=0
 age=0
-revision=19
+revision=0
 
 # Is this an already installed library?
 installed=yes

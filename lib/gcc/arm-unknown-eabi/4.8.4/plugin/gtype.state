@@ -4,7 +4,7 @@
 ;;; Don't parse this file wihout knowing GCC gengtype internals.
 ;;; This file should be parsed by the same gengtype which wrote it.
 
-(!version  "4.8.4 20140811 (prerelease)")
+(!version  "4.8.4 20140905 (prerelease)")
 
 (!srcdir  "/home/hieu/fngbuild/.build/src/gcc-custom/gcc")
 
@@ -21278,7 +21278,7 @@ nil 0 nil )
 (!fields 0 )
 nil 0 nil )
 
-(!type struct 992 nil  gc_unused "anonymous:/home/hieu/fngbuild/.build/src/gcc-custom/gcc/config/arm/arm.c:26873"nil 
+(!type struct 992 nil  gc_unused "anonymous:/home/hieu/fngbuild/.build/src/gcc-custom/gcc/config/arm/arm.c:26878"nil 
 (!fields 0 )
 nil 0 nil )
 
@@ -21286,7 +21286,7 @@ nil 0 nil )
 (!fields 0 )
 nil 0 nil )
 
-(!type struct 994 nil  gc_unused "anonymous:/home/hieu/fngbuild/.build/src/gcc-custom/gcc/config/arm/arm.c:20391"nil 
+(!type struct 994 nil  gc_unused "anonymous:/home/hieu/fngbuild/.build/src/gcc-custom/gcc/config/arm/arm.c:20396"nil 
 (!fields 0 )
 nil 0 nil )
 
@@ -26462,27 +26462,27 @@ nil )
 (!pair  "arm_mangle_map_entry"
 (!type already_seen 992)
 
-(!srcfileloc  "config/arm/arm.c" 26877)
+(!srcfileloc  "config/arm/arm.c" 26882)
 nil )
 (!pair  "builtin_arg"
 (!type already_seen 9)
 
-(!srcfileloc  "config/arm/arm.c" 22306)
+(!srcfileloc  "config/arm/arm.c" 22311)
 nil )
 (!pair  "neon_builtin_datum"
 (!type already_seen 994)
 
-(!srcfileloc  "config/arm/arm.c" 20397)
+(!srcfileloc  "config/arm/arm.c" 20402)
 nil )
 (!pair  "neon_itype"
 (!type already_seen 9)
 
-(!srcfileloc  "config/arm/arm.c" 20389)
+(!srcfileloc  "config/arm/arm.c" 20394)
 nil )
 (!pair  "neon_builtin_type_mode"
 (!type already_seen 9)
 
-(!srcfileloc  "config/arm/arm.c" 20320)
+(!srcfileloc  "config/arm/arm.c" 20325)
 nil )
 (!pair  "arm_pragma_enum"
 (!type already_seen 9)
@@ -30392,12 +30392,12 @@ nil )
 (!type already_seen 5)
 )
 
-(!srcfileloc  "config/arm/arm.c" 20778)
+(!srcfileloc  "config/arm/arm.c" 20783)
 nil )
 (!pair  "tls_get_addr_libfunc"
 (!type already_seen 136)
 
-(!srcfileloc  "config/arm/arm.c" 6460)
+(!srcfileloc  "config/arm/arm.c" 6461)
 nil )
 (!pair  "pic_labelno"
 (!type already_seen 9)
